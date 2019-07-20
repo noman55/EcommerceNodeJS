@@ -13,9 +13,9 @@
     "express": "^4.17.1",
     "mysql2": "^1.6.5",
     "sequelize": "^5.10.1"
-  }
+  },
   "engines": {
-	"node":"10"
+	"node":"10",
 	"npm":"6"
   }
 }
