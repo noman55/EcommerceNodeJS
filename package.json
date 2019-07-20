@@ -14,4 +14,8 @@
     "mysql2": "^1.6.5",
     "sequelize": "^5.10.1"
   }
+  "engines": {
+	"node":"10"
+	"npm":"6"
+  }
 }
